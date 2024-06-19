@@ -1,0 +1,15 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.Resume{
+    display: flex;
+    float: inline-start;
+    width: 80%;
+}
+
+
+.Form{
+    display: flex;
+    float: inline-end;
+    width: 20%;
+}
+
